@@ -1,19 +1,18 @@
 # SEO Values
-title: Dracula GitHub Pages
-tagline: The renowned dark theme for ...
-description: The renowned dark theme for ...
-url: https://dracula.github.io/gh-pages/
-twitter: https://twitter.com/zenorocha
-logo: https://draculatheme.com/static/icons/pack-1/045-dracula.svg
+title: https://owengrumbles.github.io/
+tagline: I like 🐂 /🐧 Gnu/Linux-Libre and GPL Software
+description: https://owengrumbles.github.io/ 
+url: https://owengrumbles.github.io/
+logo: https://avatars.githubusercontent.com/u/232080527?s=400&u=cf040f3af66b287b5663dca5c2be136abd638aa0&v=4
 
 # Google Analytics ID
 google_analytics:
 
 # GitHub Values
 github:
-  owner_name: Dracula
-  owner_url: https://github.com/dracula
-  repository_url: https://github.com/dracula/gh-pages
+  owner_name: OwenGrumbles
+  owner_url: https://github.com/OwenGrumbles
+  repository_url: https://github.com/owengrumbles.github.io
 
 show_downloads: true
 show_header: true
