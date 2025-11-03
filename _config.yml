@@ -1,0 +1,28 @@
+# SEO Values
+title: owengrumbles.com
+tagline: My Personal Website 
+description: Welcome 
+url: https://owengrumbles.com/
+logo: https://raw.githubusercontent.com/OwenGrumbles/bin/main/profile.jpg
+show_downloads: ["true"]
+colorspace: red
+show_header: ["true"]
+
+# Google Analytics ID
+google_analytics: G-NR5ZYJ4CJZ
+
+# GitHub Values
+github:
+  owner_name: OwenGrumbles
+  owner_url: https://github.com/OwenGrumbles
+  repository_url: https://github.com/OwenGrumbles/owengrumbles.github.io
+
+show_downloads: true
+show_header: true
+remote_theme: "dracula/gh-pages"
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-seo-tag
